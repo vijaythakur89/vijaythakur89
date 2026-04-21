@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @vijaythakur89
-- 👀 I’m interested in RHOS
-- 🌱 I’m currently learning RHOS DevOps
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me vijay61701@gmail
+# Hi 👋 I'm Vijay
 
-<!---
-vijaythakur89/vijaythakur89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️ System Administrator | DevOps Engineer
+
+Focused on managing, optimizing, and troubleshooting infrastructure across cloud and on-prem environments.
+
+## 🧰 Core Skills
+- ☸️ Kubernetes & OpenShift administration
+- 🐧 Linux system management & troubleshooting
+- 🖥️ VMware & virtualization platforms
+- ☁️ IBM Cloud
+- ⚙️ Go (CLI tools & automation)
+- 🌐 Nginx & web server configuration
+
+## 🔍 What I Do
+- Infrastructure setup and maintenance
+- Incident troubleshooting & root cause analysis
+- Automation of operational workflows
+- Environment stability and performance tuning
+
+## 🤝 Connect
+- Open to collaboration on DevOps, platform engineering, and infrastructure projects.
+- LinkedIn: https://www.linkedin.com/in/vijay-kumar-62b5823a/
+
+---
