@@ -1,6 +1,6 @@
 # Hi 👋 I'm Vijay
 
-🛠️ System Administrator | DevOps Engineer
+🛠️ System Administrator | DevOps Engineer | OpenShift Administrator
 
 Focused on managing, optimizing, and troubleshooting infrastructure across cloud and on-prem environments.
 
